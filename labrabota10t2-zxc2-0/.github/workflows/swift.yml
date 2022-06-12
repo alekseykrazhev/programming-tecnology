@@ -1,0 +1,20 @@
+name: Swift
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: macos-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build
+      run: xcodebuild -project 'Delivery/Delivery.xcodeproj' -scheme 'Delivery' -destination 'platform=iOS Simulator,name=iPhone 12,OS=15.2' clean test
+    - name: Run tests
+      run: xcodebuild -project 'Delivery/Delivery.xcodeproj' -scheme 'Delivery' -destination 'generic/platform=iOS' -configuration Debug build CODE_SIGNING_ALLOWED=NO
+

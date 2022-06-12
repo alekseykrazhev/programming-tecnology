@@ -1,0 +1,14 @@
+
+#Makefile for PR project
+
+Program: obj/main.o obj/PR.o
+	gcc -o bin/Program obj/main.o obj/PR.o
+
+obj/main.o: src/main.cpp
+	gcc -o obj/main.o -c src/main.cpp
+
+: src/PR.cpp
+	gcc -o obj/PR.o -c src/PR.cpp
+
+clean:
+	rm -rf obj/*.o bin/Program

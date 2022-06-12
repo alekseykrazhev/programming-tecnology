@@ -1,0 +1,10 @@
+id,name,price,days_left,sort,date,store_date
+1,fish,55,4,red,1648242413,2022-03-29
+3,meat,70,5,beef,2022-02-15,2022-02-20
+4,popit,4,100,colorful,2021-11-14,2022-01-20
+6,silk,199,150,chineese,2020-07-24,2022-03-10
+id,name,price,days_left,sort,date,store_date
+1,fish,55,4,red,1648242413,2022-03-29
+3,meat,70,5,beef,2022-02-15,2022-02-20
+4,popit,4,100,colorful,2021-11-14,2022-01-20
+6,silk,199,150,chineese,2020-07-24,2022-03-10

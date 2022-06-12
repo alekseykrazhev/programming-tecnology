@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Info:"; ObjectID = "6TN-ju-Oag"; */
+"6TN-ju-Oag.text" = "Info:";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "GqA-Jg-ZPD"; */
+"GqA-Jg-ZPD.placeholder" = "Connexion";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "Qv4-mn-xGf"; */
+"Qv4-mn-xGf.placeholder" = "E-Mail";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "SSq-PR-jMA"; */
+"SSq-PR-jMA.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "Vv3-sr-rSK"; */
+"Vv3-sr-rSK.placeholder" = "Connexion";
+
+/* Class = "UILabel"; text = "Cheluskintsev"; ObjectID = "blt-F4-trp"; */
+"blt-F4-trp.text" = "Tchelyouskintsev";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dYi-76-uVC"; */
+"dYi-76-uVC.placeholder" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "f5J-si-fhQ"; */
+"f5J-si-fhQ.normalTitle" = "S'inscrire";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "g6d-I3-ULg"; */
+"g6d-I3-ULg.normalTitle" = "S'identifier";
+
+/* Class = "UILabel"; text = "Agree To Terms"; ObjectID = "ihv-3B-cpK"; */
+"ihv-3B-cpK.text" = "Accepter les conditions";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "qtU-7d-8uq"; */
+"qtU-7d-8uq.normalTitle" = "S'identifier";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "sfK-zP-EXa"; */
+"sfK-zP-EXa.normalTitle" = "S'inscrire";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "vEm-j5-MuO"; */
+"vEm-j5-MuO.placeholder" = "Confirmez le mot de passe";

@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Info:"; ObjectID = "6TN-ju-Oag"; */
+"6TN-ju-Oag.text" = "Информация:";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "GqA-Jg-ZPD"; */
+"GqA-Jg-ZPD.placeholder" = "Логин";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "Qv4-mn-xGf"; */
+"Qv4-mn-xGf.placeholder" = "Емэйл";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "SSq-PR-jMA"; */
+"SSq-PR-jMA.placeholder" = "Пароль";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "Vv3-sr-rSK"; */
+"Vv3-sr-rSK.placeholder" = "Логин";
+
+/* Class = "UILabel"; text = "Cheluskintsev"; ObjectID = "blt-F4-trp"; */
+"blt-F4-trp.text" = "Парк Челюскинцев";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dYi-76-uVC"; */
+"dYi-76-uVC.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "f5J-si-fhQ"; */
+"f5J-si-fhQ.normalTitle" = "Зарегестрироваться";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "g6d-I3-ULg"; */
+"g6d-I3-ULg.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "Agree To Terms"; ObjectID = "ihv-3B-cpK"; */
+"ihv-3B-cpK.text" = "Согласен с условиями";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "qtU-7d-8uq"; */
+"qtU-7d-8uq.normalTitle" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "sfK-zP-EXa"; */
+"sfK-zP-EXa.normalTitle" = "Зарегестрироваться";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "vEm-j5-MuO"; */
+"vEm-j5-MuO.placeholder" = "Подтвердите пароль";
